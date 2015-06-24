@@ -8,12 +8,12 @@ I started working professionally on software projects back in 2001 as plain deve
 
 Currently, I enjoy developing a high-performance and scalable Node.JS-powered backend hosted in the cloud with complex web frontend and mobile apps.
 
-In my spare time I work on some personal projects and participate in different communities as [Meetup.JS](http://meetup.com/meetup-js), [BA Node](http://meetup.com/banode-meetup), [Latam.JS](http://latamjs.org), [NodeSchool](http://nodeschool.io/buenosaires). In the past, I also volunteered at the [PMI Buenos Aires Chapter](http://www.pmi.org.ar).
+In my spare time I work on some personal projects and participate in different communities as [Meetup.js](http://meetup.com/meetup-js), [BA Node.js](http://meetup.com/banode-meetup), [Latam.JS](http://latamjs.org), [NodeSchool](http://nodeschool.io/buenosaires). In the past, I also volunteered at the [PMI Buenos Aires Chapter](http://www.pmi.org.ar).
 
 ### Latest contributions to the community
 
-- May 23rd, 2015: Mentored at the Nodeschool International Day
-- Apr 1st, 2015: Presented ["Testing, mocha, chai e istanbul"]() at BA Node
+- Jun 18th, 2015: Presented ["Testing in the browser"](http://slides.com/gabrielmontes/probando-en-el-browser) at Meetup.js
+- Apr 1st, 2015: Presented ["Testing, mocha, chai e istanbul"](http://slides.com/gabrielmontes/testing-mocha-chai-e-istanbul) at BA Node.js
 
 Check my Github profile for additional contributions!
 
