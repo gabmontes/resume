@@ -27,6 +27,8 @@ Check my Github profile for additional contributions!
 
 Like "Finding Wally" but you have to find me instead :)
 
+- NodeBots Day, 2015
+![photo](https://pbs.twimg.com/media/CKy1H33WoAA1Pc4.jpg:large)
 - Nodeschool International Day, 2015
 ![photo](https://pbs.twimg.com/media/CFt7srHWYAA3mtc.jpg:large)
 - JS Conf Uruguay, 2015
