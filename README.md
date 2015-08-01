@@ -6,7 +6,7 @@ I'm software engineer and project manager by formation and software developer by
 
 I started working professionally on software projects back in 2001 as plain developer and quickly evolved to higher technical and management roles. Then, I earned my [PMP](http://www.pmi.org) and [CSM](http://www.scrumalliance.org) certifications, had the opportunity of building up development teams while working on growing companies and experienced the fast-paced nature of the startups in a small and promising company that is changing the entertaining industry by developing bright ideas with the latest technologies, frameworks and tools.
 
-Currently, I enjoy developing a high-performance and scalable Node.JS-powered backend hosted in the cloud with complex web frontend and mobile apps.
+Currently, I enjoy developing a high-performance and scalable Node.JS-powered backend hosted in the cloud with complex web frontend and mobile apps. I also help people learn new tools and technologies as a way to give back to the community.
 
 In my spare time I work on some personal projects and participate in different communities as [Meetup.js](http://meetup.com/meetup-js), [BA Node.js](http://meetup.com/banode-meetup), [Latam.JS](http://latamjs.org), [NodeSchool](http://nodeschool.io/buenosaires). In the past, I also volunteered at the [PMI Buenos Aires Chapter](http://www.pmi.org.ar).
 
@@ -90,9 +90,9 @@ Collaborating with the US and India development centers, the local team successf
 
 By the end of 2011 I left the Company and thought on taking a full year off to rethink both my personal life and professional career.
 
-## I am at (2012-present)
+## I am at and Coderhouse (2012-present)
 
-> Back to the basics and the life on a startup
+> Back to the basics, the life on a startup and giving back
 
 In April, 2012, I met my old classmate [@alfiv_](https://twitter.com/@alfiv_) and immediately joined forces to develop a game-changing platform that later was named ["I am at"](http://www.iamat.com).
 
@@ -105,6 +105,8 @@ As the complexity of the platform increased very quickly, I developed most of th
 The platform is controlled from a very complex real-time web application. I successfully stabilized the quality of its communication layer and developed a new modular approach to activate features by configuration which is very important due to the diversity in needs of different customers.
 
 Some of the main customers in Argentina are: Telefónica, Telefé, Compañía de Medios Digitales, Endemol and La Corte (Fútbol Para Todos). And around the world: Telefónica, Verizon and others.
+
+Finally, in July, 2015, I started providing trainig classes of PhoneGap/Cordova, AngularJS and Node.js at [Coderhousr](http://coderhouse.com/). This is one of many ways to give back to the community and I really enjoy helping others walk the complex path to master new tools and technologies.
 
 ## Some personal projects
 
