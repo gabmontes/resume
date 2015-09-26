@@ -12,8 +12,9 @@ In my spare time I work on some personal projects and participate in different c
 
 ### Latest contributions to the community
 
-- Jun 18th, 2015: Presented ["Testing in the browser"](http://slides.com/gabrielmontes/probando-en-el-browser) at Meetup.js
-- Apr 1st, 2015: Presented ["Testing, mocha, chai e istanbul"](http://slides.com/gabrielmontes/testing-mocha-chai-e-istanbul) at BA Node.js
+- Sep 17th, 2015: Presented ["Socket.IO avanzado"](https://slides.com/gabrielmontes/socketio-avanzado) at BA Node.js meeting
+- Jun 18th, 2015: Presented ["Testing in the browser"](http://slides.com/gabrielmontes/probando-en-el-browser) at Meetup.js meeting
+- Apr 1st, 2015: Presented ["Testing, mocha, chai e istanbul"](http://slides.com/gabrielmontes/testing-mocha-chai-e-istanbul) at BA Node.js meeting
 
 Check my Github profile for additional contributions!
 
