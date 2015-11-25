@@ -22,7 +22,7 @@ Check my Github profile for additional contributions!
 
 - Github: [gabmontes](https://github.com/gabmontes)
 - Twitter: [@gab_montes](https://twitter.com/gab_montes)
-- LinkedIn: [gabmontes](http://linkedin.com/gabmontes)
+- LinkedIn: [gabmontes](https://ar.linkedin.com/in/gabrielmontes)
 
 ### "Finding Gabi"
 
