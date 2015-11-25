@@ -12,10 +12,10 @@ In my spare time I work on some personal projects and participate in different c
 
 ### Latest contributions to the community
 
-- Oct 31st, 2015, Presented ["Aplicaciones web realtime](https://www.youtube.com/watch?v=mIc-qyPbKO0) at LibreConference 2015, LSL, UTN-FRA
-- Sep 17th, 2015: Presented ["Socket.IO avanzado"](https://slides.com/gabrielmontes/socketio-avanzado) at BA Node.js meeting
-- Jun 18th, 2015: Presented ["Testing in the browser"](http://slides.com/gabrielmontes/probando-en-el-browser) at Meetup.js meeting
-- Apr 1st, 2015: Presented ["Testing, mocha, chai e istanbul"](http://slides.com/gabrielmontes/testing-mocha-chai-e-istanbul) at BA Node.js meeting
+- Oct 31st, 2015, Presented [Aplicaciones web realtime](https://www.youtube.com/watch?v=mIc-qyPbKO0) at LibreConference 2015, LSL, UTN-FRA
+- Sep 17th, 2015: Presented [Socket.IO avanzado](https://slides.com/gabrielmontes/socketio-avanzado) at BA Node.js meeting
+- Jun 18th, 2015: Presented [Testing in the browser](http://slides.com/gabrielmontes/probando-en-el-browser) at Meetup.js meeting
+- Apr 1st, 2015: Presented [Testing, mocha, chai e istanbul](http://slides.com/gabrielmontes/testing-mocha-chai-e-istanbul) at BA Node.js meeting
 
 Check my Github profile for additional contributions!
 
