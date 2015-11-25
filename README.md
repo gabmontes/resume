@@ -12,6 +12,7 @@ In my spare time I work on some personal projects and participate in different c
 
 ### Latest contributions to the community
 
+- Oct 31st, 2015, Presented ["Aplicaciones web realtime](https://www.youtube.com/watch?v=mIc-qyPbKO0) at LibreConference 2015, LSL, UTN-FRA
 - Sep 17th, 2015: Presented ["Socket.IO avanzado"](https://slides.com/gabrielmontes/socketio-avanzado) at BA Node.js meeting
 - Jun 18th, 2015: Presented ["Testing in the browser"](http://slides.com/gabrielmontes/probando-en-el-browser) at Meetup.js meeting
 - Apr 1st, 2015: Presented ["Testing, mocha, chai e istanbul"](http://slides.com/gabrielmontes/testing-mocha-chai-e-istanbul) at BA Node.js meeting
@@ -91,7 +92,7 @@ Collaborating with the US and India development centers, the local team successf
 
 By the end of 2011 I left the Company and thought on taking a full year off to rethink both my personal life and professional career.
 
-## I am at and Coderhouse (2012-present)
+## I am at and Coderhouse (2012-2015)
 
 > Back to the basics, the life on a startup and giving back
 
