@@ -10,14 +10,14 @@ Currently, I enjoy developing a high-performance and scalable Node.JS-powered ba
 
 In my spare time I work on some personal projects and participate in different communities as [Meetup.js](http://meetup.com/meetup-js), [BA Node.js](http://meetup.com/banode-meetup), [Latam.JS](http://latamjs.org), [NodeSchool](http://nodeschool.io/buenosaires). In the past, I also volunteered at the [PMI Buenos Aires Chapter](http://www.pmi.org.ar).
 
-### Latest contributions to the community
+### Latest talks and presentations
 
 - Oct 31st, 2015, Presented [Aplicaciones web realtime](https://www.youtube.com/watch?v=mIc-qyPbKO0) at LibreConference 2015, LSL, UTN-FRA
 - Sep 17th, 2015: Presented [Socket.IO avanzado](https://slides.com/gabrielmontes/socketio-avanzado) at BA Node.js meeting
 - Jun 18th, 2015: Presented [Testing in the browser](http://slides.com/gabrielmontes/probando-en-el-browser) at Meetup.js meeting
 - Apr 1st, 2015: Presented [Testing, mocha, chai e istanbul](http://slides.com/gabrielmontes/testing-mocha-chai-e-istanbul) at BA Node.js meeting
 
-Check my Github profile for additional contributions!
+Check my Github profile for additional contributions to open source projects and the community!
 
 ### How to reach me
 
@@ -29,6 +29,8 @@ Check my Github profile for additional contributions!
 
 Like "Finding Wally" but you have to find me instead :)
 
+- JSConf Uruguay, 2016
+![photo](https://pbs.twimg.com/media/CgLzpJhWQAUsV3d.jpg:large)
 - NodeBots Day, 2015
 ![photo](https://pbs.twimg.com/media/CKy1H33WoAA1Pc4.jpg:large)
 - Nodeschool International Day, 2015
@@ -110,6 +112,12 @@ Some of the main customers in Argentina are: Telefónica, Telefé, Compañía de
 
 Finally, in July, 2015, I started providing trainig classes of PhoneGap/Cordova, AngularJS and Node.js at [Coderhousr](http://coderhouse.com/). This is one of many ways to give back to the community and I really enjoy helping others walk the complex path to master new tools and technologies.
 
+## Freenalcing (2016)
+
+> Have no fear of moving into the unknown!
+
+It is too soon to say something about 2016. Stay tuned...
+
 ## Some personal projects
 
 Sometimes, I cannot fully develop certain skills at work. These personal projects are ways I found to go that extra mile:
@@ -132,6 +140,7 @@ I think bitcoin will shape the future in many ways. We may not be able to see th
 
 ### Professional events and seminars I attended
 
+- JS Conf Uruguay, Apr 15th-16th, 2016
 - JS Conf Uruguay, Apr 23rd-24th, 2015
 - JS Conf Argentina, Nov 29th, 2014
 - JS Conf Argentina, May 19th-20th, 2012
@@ -139,6 +148,6 @@ I think bitcoin will shape the future in many ways. We may not be able to see th
 - PMI Tour Cono Sur, Nov 10th, 2010
 - PMI Tour Cono Sur, Nov 9th, 2009
 
-## Contributing
+## Contributing to this bio!
 
 Something is wrong, outdated, missing? Please open a pull request!
