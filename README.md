@@ -17,7 +17,7 @@ In my spare time I work on some personal projects and participate in different c
 - Jun 18th, 2015: Presented [Testing in the browser](http://slides.com/gabrielmontes/probando-en-el-browser) at Meetup.js meeting
 - Apr 1st, 2015: Presented [Testing, mocha, chai e istanbul](http://slides.com/gabrielmontes/testing-mocha-chai-e-istanbul) at BA Node.js meeting
 
-Check my Github profile for additional contributions to open source projects and the community!
+Take a look at my [Github profile](https://github.com/gabmontes) and [npm packages](https://www.npmjs.com/~gabmontes) for additional contributions to open source projects and the community!
 
 ### How to reach me
 
