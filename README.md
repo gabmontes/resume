@@ -110,7 +110,7 @@ The platform is controlled from a very complex real-time web application. I succ
 
 Some of the main customers in Argentina are: Telefónica, Telefé, Compañía de Medios Digitales, Endemol and La Corte (Fútbol Para Todos). And around the world: Telefónica, Verizon and others.
 
-Finally, in July, 2015, I started providing trainig classes of PhoneGap/Cordova, AngularJS and Node.js at [Coderhousr](http://coderhouse.com/). This is one of many ways to give back to the community and I really enjoy helping others walk the complex path to master new tools and technologies.
+Finally, in July, 2015, I started providing trainig classes of PhoneGap/Cordova, AngularJS and Node.js at [Coderhouse](http://coderhouse.com/). This is one of many ways to give back to the community and I really enjoy helping others walk the complex path to master new tools and technologies.
 
 ## Freenalcing (2016)
 
