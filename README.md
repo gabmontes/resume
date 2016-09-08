@@ -12,10 +12,11 @@ In my spare time I work on some personal projects and participate in different c
 
 ### Latest talks and presentations
 
+- Sep 7th, 2016, Presented [Babel and Feature detection are new friends](https://github.com/gabmontes/babel-preset-latest-minimal) at [Meetup.js](http://www.meetup.com/es-ES/Meetup-js/events/233911235/)
 - Oct 31st, 2015, Presented [Aplicaciones web realtime](https://www.youtube.com/watch?v=mIc-qyPbKO0) at LibreConference 2015, LSL, UTN-FRA
-- Sep 17th, 2015: Presented [Socket.IO avanzado](https://slides.com/gabrielmontes/socketio-avanzado) at BA Node.js meeting
-- Jun 18th, 2015: Presented [Testing in the browser](http://slides.com/gabrielmontes/probando-en-el-browser) at Meetup.js meeting
-- Apr 1st, 2015: Presented [Testing, mocha, chai e istanbul](http://slides.com/gabrielmontes/testing-mocha-chai-e-istanbul) at BA Node.js meeting
+- Sep 17th, 2015: Presented [Socket.IO avanzado](https://slides.com/gabrielmontes/socketio-avanzado) at [BA Node.js](http://www.meetup.com/es-ES/banodejs/events/225245103/)
+- Jun 18th, 2015: Presented [Testing in the browser](http://slides.com/gabrielmontes/probando-en-el-browser) at [Meetup.js](http://www.meetup.com/es-ES/Meetup-js/events/223012522/)
+- Apr 1st, 2015: Presented [Testing, mocha, chai e istanbul](http://slides.com/gabrielmontes/testing-mocha-chai-e-istanbul) at [BA Node.js](http://www.meetup.com/es-ES/banodejs/events/221235192/)
 
 Take a look at my [Github profile](https://github.com/gabmontes) and [npm packages](https://www.npmjs.com/~gabmontes) for additional contributions to open source projects and the community!
 
