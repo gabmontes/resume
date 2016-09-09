@@ -12,11 +12,11 @@ In my spare time I work on some personal projects and participate in different c
 
 ### Latest talks and presentations
 
-- Sep 7th, 2016, Presented "Babel and Feature detection are new friends" [video](https://www.youtube.com/watch?v=p2_1OXrrnfE) and [slides](https://github.com/gabmontes/babel-preset-latest-minimal) at [Meetup.js](http://www.meetup.com/es-ES/Meetup-js/events/233911235/)
-- Oct 31st, 2015, Presented "Aplicaciones web realtime" [video](https://www.youtube.com/watch?v=mIc-qyPbKO0) and [slides](http://slides.com/gabrielmontes/realtime-web-apps) at LibreConference 2015, LSL, UTN-FRA
-- Sep 17th, 2015: Presented ["Socket.IO avanzado"](https://slides.com/gabrielmontes/socketio-avanzado) at [BA Node.js](http://www.meetup.com/es-ES/banodejs/events/225245103/)
-- Jun 18th, 2015: Presented ["Testing in the browser"](http://slides.com/gabrielmontes/probando-en-el-browser) at [Meetup.js](http://www.meetup.com/es-ES/Meetup-js/events/223012522/)
-- Apr 1st, 2015: Presented ["Testing, mocha, chai e istanbul"](http://slides.com/gabrielmontes/testing-mocha-chai-e-istanbul) at [BA Node.js](http://www.meetup.com/es-ES/banodejs/events/221235192/)
+- Sep 7th, 2016, "Babel and Feature detection are new friends" at [Meetup.js](http://www.meetup.com/es-ES/Meetup-js/events/233911235/) / [video](https://www.youtube.com/watch?v=p2_1OXrrnfE) and [slides](https://github.com/gabmontes/babel-preset-latest-minimal)
+- Oct 31st, 2015, "Aplicaciones web realtime" at LibreConference 2015, LSL, UTN-FRA / [video](https://www.youtube.com/watch?v=mIc-qyPbKO0) and [slides](http://slides.com/gabrielmontes/realtime-web-apps)
+- Sep 17th, 2015: "Socket.IO avanzado" at [BA Node.js](http://www.meetup.com/es-ES/banodejs/events/225245103/) / [slides](https://slides.com/gabrielmontes/socketio-avanzado)
+- Jun 18th, 2015: "Testing in the browser" at [Meetup.js](http://www.meetup.com/es-ES/Meetup-js/events/223012522/) / [slides](http://slides.com/gabrielmontes/probando-en-el-browser)
+- Apr 1st, 2015: "Testing, mocha, chai e istanbul" at [BA Node.js](http://www.meetup.com/es-ES/banodejs/events/221235192/) / [slides](http://slides.com/gabrielmontes/testing-mocha-chai-e-istanbul)
 
 Take a look at my [Github profile](https://github.com/gabmontes) and [npm packages](https://www.npmjs.com/~gabmontes) for additional contributions to open source projects and the community!
 
