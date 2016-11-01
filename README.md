@@ -12,6 +12,7 @@ In my spare time I work on some personal projects and participate in different c
 
 ### Latest talks and presentations
 
+- Oct 19th, 2016, "Creating packages with ES2015/17" at [BA Node.js](https://ti.to/nodeconfar/2016-ba-node-octubre/es) / [slides](http://slides.com/gabrielmontes/paquetes-npm-es2015-17)
 - Sep 7th, 2016, "Babel and Feature detection are new friends" at [Meetup.js](http://www.meetup.com/es-ES/Meetup-js/events/233911235/) / [video](https://www.youtube.com/watch?v=p2_1OXrrnfE) and [slides](https://github.com/gabmontes/babel-preset-latest-minimal)
 - Oct 31st, 2015, "Aplicaciones web realtime" at LibreConference 2015, LSL, UTN-FRA / [video](https://www.youtube.com/watch?v=mIc-qyPbKO0) and [slides](http://slides.com/gabrielmontes/realtime-web-apps)
 - Sep 17th, 2015: "Socket.IO avanzado" at [BA Node.js](http://www.meetup.com/es-ES/banodejs/events/225245103/) / [slides](https://slides.com/gabrielmontes/socketio-avanzado)
@@ -111,19 +112,44 @@ The platform is controlled from a very complex real-time web application. I succ
 
 Some of the main customers in Argentina are: Telefónica, Telefé, Compañía de Medios Digitales, Endemol and La Corte (Fútbol Para Todos). And around the world: Telefónica, Verizon and others.
 
-Finally, in July, 2015, I started providing trainig classes of PhoneGap/Cordova, AngularJS and Node.js at [Coderhouse](http://coderhouse.com/). This is one of many ways to give back to the community and I really enjoy helping others walk the complex path to master new tools and technologies.
+Finally, in July, 2015, I started providing trainig classes of PhoneGap/Cordova, AngularJS and Node.js at [Coderhouse](http://coderhouse.com/) to both individuals and organizations as the [Dirección General de Estadísticas y Censos](http://www.estadisticaciudad.gob.ar/eyc/) of Buenos Aires City. This is one of many ways to give back to the community and I really enjoy helping others walk the complex path to master new tools and technologies.
 
-## Freenalcing (2016)
+## Freenalcing and teaching (2016)
 
 > Have no fear of moving into the unknown!
 
-It is too soon to say something about 2016. Stay tuned...
+This was a year of change, getting back to work remotely, developing software for medium and big companies in the US and Canada. It was also a year of getting back to teaching and speaking at local meetups, which is another way to give back I enjoy a lot.
+
+In the first part, I worked in the architecture and initial development [Mad Mobile](http://www.madmobile.com/)'s core solutions: Mad-X platform and Concierge. These solutions are used by many large companies in the US, like Talbots, one of its first customers. Some of the technologies used to develop this microservices-oriented platform included Node.JS, Express, MongoDB, Redis, etcd, RabbitMQ, SOAP, REST APIs and more.
+
+In the second part, developing the integrated shipping system (backend and apps) for [Dicom Transportation Group](https://www.dicom.com/), one of the biggest logistic companies in Canada. The development required my best skills with JavaScript latest languaje features, Babel, Node.JS, BookshelfJS/KnexJS and Postgres, REST APIs, Azure Storage Services, React, Redux, SASS and Electron app development.
+
+Teaching durung 2016 included participating as the JavaScript specialist in the Full Stack JavaScript training couse at [Digital House](https://www.digitalhouse.com/), one of the top software development training providers in Argentina, backed by some of Argentina's top companies. Corporate training this year included JavaScript training classes to one of the core development teams at [Assist Card of Argentina](https://www.assistcard.com/ar). 
 
 ## Some personal projects
 
 Sometimes, I cannot fully develop certain skills at work. These personal projects are ways I found to go that extra mile:
 
-### Bitcoin en Pesos apps
+### `npm` packages and top repos
+
+While teaching and developing, some solutions can take the form of generic components or packages that would be used not only in other of my projects but can help the community facing the same issues. Whenever I find myself in that situation, I evaluate the possibility of creating and sharing the knowledge, components and packages.
+
+[npm packages](https://www.npmjs.com/~gabmontes)
+
+The code of all packages is hosted in GitHub and my top starred repos are:
+
+Name | Stars
+--- | ---
+[babel-preset-latest-minimal](https://api.github.com/repos/gabmontes/babel-preset-latest-minimal) | 79
+[es-feature-detect](https://api.github.com/repos/gabmontes/es-feature-detect) | 10
+[fast-haversine](https://api.github.com/repos/gabmontes/fast-haversine) | 5
+[source-map-cli](https://api.github.com/repos/gabmontes/source-map-cli) | 5
+
+(table generated with [my-top-starred-repos.js](https://gist.github.com/gabmontes/fcf54132230ea17ea02a3f4962bfb5f5))
+
+### Mobile apps
+
+#### Bitcoin en Pesos apps
 
 I think bitcoin will shape the future in many ways. We may not be able to see the full potential of the ideas behind it but am sure our sons will. My two cents are simple apps that calculate the exchange rate for the Argentinean peso. While developing the apps, I learned new development frameworks:
 
