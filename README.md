@@ -12,7 +12,7 @@ In my spare time I work on some personal projects and participate in different c
 
 ### Latest talks and presentations
 
-- Oct 19th, 2016, "Creating packages with ES2015/17" at [BA Node.js](https://ti.to/nodeconfar/2016-ba-node-octubre/es) / [slides](http://slides.com/gabrielmontes/paquetes-npm-es2015-17)
+- Oct 19th, 2016, "Creating packages with ES2015/17" at [BA Node.js](https://ti.to/nodeconfar/2016-ba-node-octubre/es) / [video](https://www.youtube.com/watch?v=_Ol8Qptkz60) and [slides](http://slides.com/gabrielmontes/paquetes-npm-es2015-17)
 - Sep 7th, 2016, "Babel and Feature detection are new friends" at [Meetup.js](http://www.meetup.com/es-ES/Meetup-js/events/233911235/) / [video](https://www.youtube.com/watch?v=p2_1OXrrnfE) and [slides](https://github.com/gabmontes/babel-preset-latest-minimal)
 - Oct 31st, 2015, "Aplicaciones web realtime" at LibreConference 2015, LSL, UTN-FRA / [video](https://www.youtube.com/watch?v=mIc-qyPbKO0) and [slides](http://slides.com/gabrielmontes/realtime-web-apps)
 - Sep 17th, 2015: "Socket.IO avanzado" at [BA Node.js](http://www.meetup.com/es-ES/banodejs/events/225245103/) / [slides](https://slides.com/gabrielmontes/socketio-avanzado)
