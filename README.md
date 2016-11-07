@@ -19,26 +19,17 @@ In my spare time I work on some personal projects and participate in different c
 - Jun 18th, 2015: "Testing in the browser" at [Meetup.js](http://www.meetup.com/es-ES/Meetup-js/events/223012522/) / [slides](http://slides.com/gabrielmontes/probando-en-el-browser)
 - Apr 1st, 2015: "Testing, mocha, chai and istanbul" at [BA Node.js](http://www.meetup.com/es-ES/banodejs/events/221235192/) / [slides](http://slides.com/gabrielmontes/testing-mocha-chai-e-istanbul)
 
-Take a look at my [Github profile](https://github.com/gabmontes) and [npm packages](https://www.npmjs.com/~gabmontes) for additional contributions to open source projects and the community!
+Take a look at my other contributions to open source projects and the community!
+
+- [Github profile](https://github.com/gabmontes)
+- [npm packages](https://www.npmjs.com/~gabmontes)
+- [Medium posts](https://medium.com/@gab_montes)
 
 ### How to reach me
 
 - Github: [gabmontes](https://github.com/gabmontes)
 - Twitter: [@gab_montes](https://twitter.com/gab_montes)
 - LinkedIn: [gabmontes](https://ar.linkedin.com/in/gabrielmontes)
-
-### "Finding Gabi"
-
-Like "Finding Wally" but you have to find me instead :)
-
-- JSConf Uruguay, 2016
-![photo](https://pbs.twimg.com/media/CgLzpJhWQAUsV3d.jpg:large)
-- NodeBots Day, 2015
-![photo](https://pbs.twimg.com/media/CKy1H33WoAA1Pc4.jpg:large)
-- Nodeschool International Day, 2015
-![photo](https://pbs.twimg.com/media/CFt7srHWYAA3mtc.jpg:large)
-- JS Conf Uruguay, 2015
-![photo](https://pbs.twimg.com/media/CDdmeWEWYAAXbia.jpg:large)
 
 ## Early life and formation
 
@@ -174,6 +165,19 @@ I think bitcoin will shape the future in many ways. We may not be able to see th
 - PMI Tour Cono Sur, Nov 2nd, 2011
 - PMI Tour Cono Sur, Nov 10th, 2010
 - PMI Tour Cono Sur, Nov 9th, 2009
+
+### "Finding Gabi"
+
+Like "Finding Wally" but you have to find me instead :)
+
+- JSConf Uruguay, 2016
+![photo](https://pbs.twimg.com/media/CgLzpJhWQAUsV3d.jpg:large)
+- NodeBots Day, 2015
+![photo](https://pbs.twimg.com/media/CKy1H33WoAA1Pc4.jpg:large)
+- Nodeschool International Day, 2015
+![photo](https://pbs.twimg.com/media/CFt7srHWYAA3mtc.jpg:large)
+- JS Conf Uruguay, 2015
+![photo](https://pbs.twimg.com/media/CDdmeWEWYAAXbia.jpg:large)
 
 ## Contributing to this bio!
 
