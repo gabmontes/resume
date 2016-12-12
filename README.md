@@ -8,7 +8,7 @@ I started working professionally on software projects back in 2001 as plain deve
 
 Currently, I enjoy developing a high-performance and scalable Node.JS-powered backend hosted in the cloud with complex web frontend and mobile apps. I also help people learn new tools and technologies as a way to give back to the community.
 
-In my spare time I work on some personal projects and participate in different communities as [Meetup.js](http://meetup.com/meetup-js), [BA Node.js](http://meetup.com/banode-meetup), [Latam.JS](http://latamjs.org), [NodeSchool](http://nodeschool.io/buenosaires). In the past, I also volunteered at the [PMI Buenos Aires Chapter](http://www.pmi.org.ar).
+In my spare time I work on some personal projects and participate in different communities as [Meetup.js](http://meetup.com/meetup-js), [BA Node.js](http://meetup.com/banode-meetup), [Latam.JS](http://latamjs.org), [NodeSchool](http://nodeschool.io/buenosaires), [NodeConf Argentina](https://nodeconf.com.ar/) and [DevDayAr](http://devday-ar.com/). In the past, I also volunteered at the [PMI Buenos Aires Chapter](http://www.pmi.org.ar).
 
 ### Latest talks and presentations
 
@@ -131,7 +131,7 @@ The code of all packages is hosted in GitHub and my top starred repos are:
 
 Name | Stars
 --- | ---
-[babel-preset-latest-minimal](https://api.github.com/repos/gabmontes/babel-preset-latest-minimal) | 79
+[babel-preset-latest-minimal](https://api.github.com/repos/gabmontes/babel-preset-latest-minimal) | 83
 [es-feature-detect](https://api.github.com/repos/gabmontes/es-feature-detect) | 10
 [fast-haversine](https://api.github.com/repos/gabmontes/fast-haversine) | 5
 [source-map-cli](https://api.github.com/repos/gabmontes/source-map-cli) | 5
@@ -156,28 +156,17 @@ I think bitcoin will shape the future in many ways. We may not be able to see th
 - Project Management Professional (PMP), 2007
 - Sun Certified Java Professional (SCJP), 2003
 
-### Professional events and seminars I attended
+### Professional events, conferences and seminars
 
-- JS Conf Uruguay, Apr 15th-16th, 2016
-- JS Conf Uruguay, Apr 23rd-24th, 2015
-- JS Conf Argentina, Nov 29th, 2014
-- JS Conf Argentina, May 19th-20th, 2012
-- PMI Tour Cono Sur, Nov 2nd, 2011
-- PMI Tour Cono Sur, Nov 10th, 2010
-- PMI Tour Cono Sur, Nov 9th, 2009
-
-### "Finding Gabi"
-
-Like "Finding Wally" but you have to find me instead :)
-
-- JSConf Uruguay, 2016
-![photo](https://pbs.twimg.com/media/CgLzpJhWQAUsV3d.jpg:large)
-- NodeBots Day, 2015
-![photo](https://pbs.twimg.com/media/CKy1H33WoAA1Pc4.jpg:large)
-- Nodeschool International Day, 2015
-![photo](https://pbs.twimg.com/media/CFt7srHWYAA3mtc.jpg:large)
-- JS Conf Uruguay, 2015
-![photo](https://pbs.twimg.com/media/CDdmeWEWYAAXbia.jpg:large)
+- [DevDayAr, Dec 3rd, 2016](http://devday-ar.com/) - Staff
+- [NodeConf Argentina, Nov 17th-19th, 2016](https://2016.nodeconf.com.ar/) - Staff
+- [JS Conf Uruguay, Apr 15th-16th, 2016](https://jsconf.uy/) - Attendee
+- [JS Conf Uruguay, Apr 23rd-24th, 2015](http://2015.jsconf.uy/) - Attendee
+- [JS Conf Argentina, Nov 29th, 2014](https://www.jsconfar.com/) - Attendee
+- JS Conf Argentina, May 19th-20th, 2012 - Attendee
+- PMI Tour Cono Sur, Nov 2nd, 2011 - Attendee
+- PMI Tour Cono Sur, Nov 10th, 2010 - Attendee
+- PMI Tour Cono Sur, Nov 9th, 2009 - Attendee
 
 ## Contributing to this bio!
 
