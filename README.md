@@ -125,7 +125,14 @@ Sometimes, I cannot fully develop certain skills at work. These personal project
 
 While teaching and developing, some solutions can take the form of generic components or packages that would be used not only in other of my projects but can help the community facing the same issues. Whenever I find myself in that situation, I evaluate the possibility of creating and sharing the knowledge, components and packages.
 
-[npm packages](https://www.npmjs.com/~gabmontes)
+Package | Downloads
+--- | ---
+[tiny-promisify](https://www.npmjs.com/package/tiny-promisify) |	56,800
+[babel-preset-latest-minimal](https://www.npmjs.com/package/babel-preset-latest-minimal) |	3,853
+[es-feature-detect](https://www.npmjs.com/package/es-feature-detect)	| 3,817
+[arrayslicer](https://www.npmjs.com/package/arrayslicer)	| 1,238
+
+(table based on the [stats on my npm packages](https://npm-stat.com/charts.html?author=gabmontes) for the last 12 months)
 
 The code of all packages is hosted in GitHub and my top starred repos are:
 
