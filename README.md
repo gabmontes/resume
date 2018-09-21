@@ -15,6 +15,7 @@ In the past, I also volunteered at the [PMI Buenos Aires Chapter](http://www.pmi
 
 ### Latest talks and presentations
 
+- Aug 23rd, 2018, "Brevísima intro a Ethereum" lightning talk at [Meetup.js](https://www.meetup.com/es-ES/Meetup-js/events/253847471/) / [slides](https://blog.utoctadel.com.ar/talks/brevisima-into-a-ethereum.html)
 - May 10th, 2018, "La esencia de React" at [Meetup.js](https://www.meetup.com/es-ES/Meetup-js/events/250410888/) / [video](https://www.youtube.com/watch?v=QtiDA8KkM3U)
 - Oct 19th, 2016, "Creating packages with ES2015/17" at [BA Node.js](https://ti.to/nodeconfar/2016-ba-node-octubre/es) / [video](https://www.youtube.com/watch?v=_Ol8Qptkz60) and [slides](http://slides.com/gabrielmontes/paquetes-npm-es2015-17)
 - Sep 7th, 2016, "Babel and Feature detection are new friends" at [Meetup.js](http://www.meetup.com/es-ES/Meetup-js/events/233911235/) / [video](https://www.youtube.com/watch?v=p2_1OXrrnfE) and [slides](https://github.com/gabmontes/babel-preset-latest-minimal)
