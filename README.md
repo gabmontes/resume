@@ -157,6 +157,9 @@ After talking to him a couple of times I had the opportunity of joining the [Blo
 This is literally my dream come true.
 I have been dreaming about having this chance since I first learned about Bitcoin back in 2012.
 
+In the last 3 years I developed Bitcoin-based solutions based on the Copay wallet and Bitpay backend services, developed the official Ethereum-based [Metronome](https://metronome.io) crypto-wallet and infrastructure (see https://github.com/autonomoussoftware) and lately lead the development of [Bloq.Cloud](https://bloq.cloud), an on-demand blockchain infrastructure platform.
+I'm also actively contributing to open source projects
+
 This part of the history is being written right now.
 Stay tuned...!
 
