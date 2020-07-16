@@ -130,7 +130,7 @@ And around the world: Telefónica, Verizon and others.
 Finally, in July, 2015, I started providing trainig classes of PhoneGap/Cordova, AngularJS and Node.js at [Coderhouse](http://coderhouse.com/) to both individuals and organizations as the [Dirección General de Estadísticas y Censos](http://www.estadisticaciudad.gob.ar/eyc/) of Buenos Aires City.
 This is one of many ways to give back to the community and I really enjoy helping others walk the complex path to master new tools and technologies.
 
-## Freenalcing and teaching (2016)
+## Freelancing and teaching (2016)
 
 > Have no fear of moving into the unknown!
 
