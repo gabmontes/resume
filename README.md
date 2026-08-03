@@ -196,11 +196,13 @@ The code of all packages is hosted in GitHub and my top starred repos are:
 
 Name | Stars
 --- | ---
-[babel-preset-latest-minimal](https://api.github.com/repos/gabmontes/babel-preset-latest-minimal) | 91
+[babel-preset-latest-minimal](https://api.github.com/repos/gabmontes/babel-preset-latest-minimal) | 89
+[source-map-cli](https://api.github.com/repos/gabmontes/source-map-cli) | 60
 [es-feature-detect](https://api.github.com/repos/gabmontes/es-feature-detect) | 11
-[source-map-cli](https://api.github.com/repos/gabmontes/source-map-cli) | 8
-[exploring-not-react](https://api.github.com/repos/gabmontes/exploring-not-react) | 7
-[fast-haversine](https://api.github.com/repos/gabmontes/fast-haversine) | 7
+[exploring-not-react](https://api.github.com/repos/gabmontes/exploring-not-react) | 11
+[fast-haversine](https://api.github.com/repos/gabmontes/fast-haversine) | 11
+[impresionantes-propuestas-de-charlas](https://api.github.com/repos/gabmontes/impresionantes-propuestas-de-charlas) | 5
+[promise-prototype-finally](https://api.github.com/repos/gabmontes/promise-prototype-finally) | 5
 
 (table generated with [my-top-starred-repos.js](https://gist.github.com/gabmontes/fcf54132230ea17ea02a3f4962bfb5f5))
 
