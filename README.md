@@ -2,18 +2,18 @@
 
 ## Quick bio
 
-I'm software engineer and project manager by formation and software developer by passion.
+I'm a software engineer and project manager by formation and software developer by passion.
 
-I started working professionally on software projects back in 2001 as plain developer and quickly evolved to higher technical and management roles.
-Then, I earned my [PMP](http://www.pmi.org) and [CSM](http://www.scrumalliance.org) certifications, had the opportunity of building up development teams while working on growing companies and experienced the fast-paced nature of the startups in a small and promising company that is changing the entertaining industry by developing bright ideas with the latest technologies, frameworks and tools.
+I started working professionally on software projects back in 2001 as a developer and quickly evolved to higher technical and management roles.
+Then, I earned my [PMP](http://www.pmi.org) and [CSM](http://www.scrumalliance.org) certifications, had the opportunity of building up development teams while working on growing companies and experienced the fast-paced nature of the startups in a small and promising company whose goal was to change the entertainment industry by developing bright ideas with the latest technologies, frameworks and tools.
 
-Currently, I enjoy developing a high-performance and scalable Node.JS-powered backend hosted in the cloud with complex web frontend and mobile apps.
+Currently, I enjoy developing a high-performance and scalable Node.js-powered backend services hosted in the cloud with complex web frontend and mobile apps that interact with Bitcoin and other crypto networks and protocols.
 I also help people learn new tools and technologies as a way to give back to the community.
 
-In my spare time I work on some personal projects and participate in different communities as [Meetup.js](http://meetup.com/meetup-js), [BA Node.js](http://meetup.com/banode-meetup), [Latam.JS](http://latamjs.org), [NodeSchool](http://nodeschool.io/buenosaires), [NodeConf Argentina](https://nodeconf.com.ar/) and [DevDayAr](http://devday-ar.com/).
-In the past, I also volunteered at the [PMI Buenos Aires Chapter](http://www.pmi.org.ar).
+In my spare time I work on some personal projects and participated in different communities such as [Meetup.js](http://meetup.com/meetup-js), [BA Node.js](http://meetup.com/banode-meetup), Latam.JS, [NodeSchool](http://nodeschool.io/buenosaires), [NodeConf Argentina](https://nodeconf.com.ar/) and DevDayAr.
+I also volunteered at the [PMI Buenos Aires Chapter](http://www.pmi.org.ar).
 
-### Latest talks and presentations
+### Selected talks and presentations
 
 - Aug 23rd, 2018, "Brevísima intro a Ethereum" lightning talk at [Meetup.js](https://www.meetup.com/es-ES/Meetup-js/events/253847471/) / [slides](https://blog.utoctadel.com.ar/talks/brevisima-into-a-ethereum.html)
 - May 10th, 2018, "La esencia de React" at [Meetup.js](https://www.meetup.com/es-ES/Meetup-js/events/250410888/) / [video](https://www.youtube.com/watch?v=QtiDA8KkM3U)
@@ -33,7 +33,7 @@ Take a look at my other contributions to open source projects and the community!
 ### How to reach out to me
 
 - Github: [gabmontes](https://github.com/gabmontes)
-- Twitter: [@gab_montes](https://twitter.com/gab_montes)
+- X/Twitter: [@gab_montes](https://x.com/gab_montes)
 - LinkedIn: [gabmontes](https://ar.linkedin.com/in/gabrielmontes)
 
 ## Early life and formation
@@ -42,18 +42,18 @@ Take a look at my other contributions to open source projects and the community!
 
 I started programming a clone of an ancient Sinclair 1500 home computer at an age of 12.
 That was my first contact with BASIC and programming languages.
-A few years later moved to a Commodore 64 and at the age of 16 got my first 286 PC that used to program my own 3D graphics library written in C/C++ with some routines written in assembly to achieve better performance.
+A few years later I moved to a Commodore 64 and at the age of 16 got my first 286 PC, on which I programmed my own 3D graphics library written in C/C++ with some routines written in assembly to achieve better performance.
 
 At the [Instituto Tecnológico de Buenos Aires](http://www.itba.edu.ar) I obtained a BS degree in Computer Science in 1997.
-I came back many years later to get a Master degree in Software and Knowledge Engineering.
-Finally obtained that degree in 2009.
+I came back many years later to get a Master degree in Software and Knowledge Engineering, a joint program by the [Instituto Tecnológico de Buenos Aires](http://www.itba.edu.ar) and the [Universidad Politécnica de Madrid](https://www.upm.es).
+I finally obtained that degree in 2009.
 
 ## Motorola (1998-2001)
 
 > My first job!
 
 Just a week after finishing my degree, I took an opportunity to start working at [Motorola Argentina](http://www.motorola.com.ar) in the IT Infrastructure team.
-The main responsibilities were to provide IT support to other employees and, as I earned the confidence of my management, to be in charge of several key areas as the Internet connectivity, office's telephony infrastructure and the acquisition processes of all the IT equipment and software.
+The main responsibilities were to provide IT support to other employees and, as I earned the confidence of my management, to be in charge of several key areas such as the Internet connectivity, office's telephony infrastructure and the acquisition processes of all the IT equipment and software.
 
 I also provided remote support to the office in Chile, participated in the IT setup processes of the offices at Uruguay, the new office at Buenos Aires and the Global Software Group's office at Córdoba.
 
@@ -67,9 +67,9 @@ There, I started my professional career in software development playing several 
 It was mandatory to periodically report project status to both local management and the remote customers in the US.
 
 During that period I was introduced to the process and quality-oriented culture of the company.
-Great people as [@fabiogrigorjev](https://twitter.com/fabiogrigorjev))) and Gustavo Parlanti teach me with their own example the fine art of people management.
-Readings as Tom De Marco's Peopleware and Steve McConell's Classical Mistakes Enumerated to name just a few, along with my own passion for a data-driven and quality-oriented management processes shaped my professional profile.
-Managers as Raúl Crespo and Pedro Colla helped me learn the key factors to success in such a high-pressure and very professional environment.
+Great people such as [@fabiogrigorjev](https://twitter.com/fabiogrigorjev) and Gustavo Parlanti taught me with their own example the fine art of people management.
+Readings such as Tom De Marco's Peopleware and Steve McConell's Classical Mistakes Enumerated to name just a few, along with my own passion for a data-driven and quality-oriented management processes shaped my professional profile.
+Managers such as Raúl Crespo and Pedro Colla helped me learn the key factors to success in such a high-pressure and very professional environment.
 
 That process-oriented culture allowed us to mature and succeed in the CMM Level 3, CMM Level 5, CMMI Level 5 assessments and the ISO 9001/2000 certification processes.
 I actively participated in all those projects from my role in the development teams and also leading several organizational efforts directly related to those assessments and certifications.
@@ -84,12 +84,12 @@ After returning to Buenos Aires, I joined [Neoris Argentina](http://www.neoris.c
 
 Managing a team of more than 20 developers and testers working remotely from different locations in Argentina, we successfully delivered several core projects for Lowe's on time, on budget and achieving the highest customer satisfaction ratings.
 
-Later, I switched to manage a top-level HR project for McDonald's Argentina with a similar distributed team and the additional complexity of having to interface part of out development process with other supplier that developed the previous version of the system being rebuilt.
+Later, I switched to manage a top-level HR project for McDonald's Argentina with a similar distributed team and the additional complexity of having to interface part of our development process with other supplier that developed the previous version of the system being rebuilt.
 The need to meet a tight and multi-country roll-out schedule was not easy at all for the team.
 
-Finally, managed the planning and inception phases of a new project for Ryder, leading the initial requirements gathering on site at Atlanta.
+Finally, I managed the planning and inception phases of a new project for Ryder, leading the initial requirements gathering on site at Atlanta.
 
-During 2008 and 2009 also coached several project managers within the organization to be able to obtain their own PMP certifications.
+During 2008 and 2009 I also coached several project managers within the organization to be able to obtain their own PMP certifications.
 
 ## Politec and abc Consulting (2010-2011)
 
@@ -99,66 +99,74 @@ In January, 2010 I joined Politec Argentina (later acquired by [Indra](http://ww
 The team had a slow start due to the difficulty to find talent in the required quantities.
 During that time we were able to provide services to clients such as Automatic Data Processing, Agência Nacional do Petróleo and Americas' SAP Users' Group in the US and Global Crossing and Pan-American Energy in Argentina.
 
-Due to that slow start and the opportunity of pursuing the same objective in a different environment, in September, 2010 I joined [abc Consulting](http://www.abcconsulting.com.ar), which was just acquired by [ProKarma](http://www.prokarma.com).
-As the manager of the new Custom Enterprise Development Operation I run the selection process that allowed the operation to quickly have more than 40 Java/J2EE, Flex and .Net developers.
+Due to that slow start and the opportunity of pursuing the same objective in a different environment, in September, 2010 I joined abc Consulting, which was just acquired by ProKarma (now Concentrix Catalyst).
+As the manager of the new Custom Enterprise Development Operation I ran the selection process that allowed the operation to quickly have more than 40 Java/J2EE, Flex and .Net developers.
 
 Collaborating with the US and India development centers, the local team successfully provided services to US companies such as Union Pacific Railroad, PS Technology, Hughes Telematics and T-Mobile.
 
-By the end of 2011 I left the Company and thought on taking a full year off to rethink both my personal life and professional career.
+By the end of 2011 I left the Company and thought about taking a full year off to rethink both my personal life and professional career.
 
 ## I am at and Coderhouse (2012-2015)
 
 > Back to the basics, the life on a startup and giving back
 
-In April, 2012, I met my old classmate [@alfiv_](https://twitter.com/@alfiv_) and immediately joined forces to develop a game-changing platform that later was named ["I am at"](http://www.iamat.com).
+In April, 2012, I met my old classmate [@alfiv_](https://x.com/alfiv_) and immediately joined forces to develop a game-changing platform that later was named ["I am at"](http://www.iamat.com).
 
-It is a mobile-first, cloud-first, content-delivery, second-screen and real-time, interactive platform built on top of the latest technologies and frameworks as Node.JS, MongoDB, Redis, Express and Socket.IO, among many others.
+It was a mobile-first, cloud-first, content-delivery, second-screen and real-time, interactive platform built on top of the latest technologies and frameworks such as Node.js, MongoDB, Redis, Express and Socket.IO, among many others.
 It was initially hosted in Amazon Web Services and later migrated to the Google Cloud Platform.
-HTML5 and mobile clients were developed for the main platforms as Android and iOS.
+HTML5 and mobile clients were developed for the main platforms such as Android and iOS.
 
 I architected and evolved the whole platform from scratch along with @jaclar and @freynolds.
-Since then, the development team grew up with the addition of dedicated Android, iOS, frontend and backend developers.
+Since then, the development team grew with the addition of dedicated Android, iOS, frontend and backend developers.
 
-As the complexity of the platform increased very quickly, I developed most of the backend automated test suites that run on Mocha, Chai and istambul to ensure high quality and stability at the same time new features are added to the codebase.
+As the complexity of the platform increased very quickly, I developed most of the backend automated test suites that ran on Mocha, Chai and istanbul to ensure high quality and stability at the same time new features were added to the codebase.
 
-The platform is controlled from a very complex real-time web application.
+The platform was controlled from a very complex real-time web application.
 I successfully stabilized the quality of its communication layer and developed a new modular approach to activate features by configuration which is very important due to the diversity in needs of different customers.
 
-Some of the main customers in Argentina are: Telefónica, Telefé, Compañía de Medios Digitales, Endemol and La Corte (Fútbol Para Todos).
+Some of the main customers in Argentina were: Telefónica, Telefé, Compañía de Medios Digitales, Endemol and La Corte (Fútbol Para Todos).
 And around the world: Telefónica, Verizon and others.
 
-Finally, in July, 2015, I started providing trainig classes of PhoneGap/Cordova, AngularJS and Node.js at [Coderhouse](http://coderhouse.com/) to both individuals and organizations as the [Dirección General de Estadísticas y Censos](http://www.estadisticaciudad.gob.ar/eyc/) of Buenos Aires City.
+Finally, in July, 2015, I started providing training classes of PhoneGap/Cordova, AngularJS and Node.js at [Coderhouse](http://coderhouse.com/) to both individuals and organizations as the Dirección General de Estadísticas y Censos of Buenos Aires City.
 This is one of many ways to give back to the community and I really enjoy helping others walk the complex path to master new tools and technologies.
 
-## Freenalcing and teaching (2016)
+## Freelancing and teaching (2016)
 
 > Have no fear of moving into the unknown!
 
 This was a year of change, getting back to work remotely, developing software for medium and big companies in the US and Canada.
 It was also a year of getting back to teaching and speaking at local meetups, which is another way to give back I enjoy a lot.
 
-In the first part, I worked in the architecture and initial development [Mad Mobile](http://www.madmobile.com/)'s core solutions: Mad-X platform and Concierge.
-These solutions are used by many large companies in the US, like Talbots, one of its first customers.
-Some of the technologies used to develop this microservices-oriented platform included Node.JS, Express, MongoDB, Redis, etcd, RabbitMQ, SOAP, REST APIs and more.
+In the first part, I worked on the architecture and initial development of [Mad Mobile](http://www.madmobile.com/)'s core solutions: Mad-X platform and Concierge.
+These solutions were used by many large companies in the US, like Talbots, one of its first customers.
+Some of the technologies used to develop this microservices-oriented platform included Node.js, Express, MongoDB, Redis, etcd, RabbitMQ, SOAP, REST APIs and more.
 
-In the second part, developing the integrated shipping system (backend and apps) for [Dicom Transportation Group](https://www.dicom.com/), one of the biggest logistic companies in Canada.
-The development required my best skills with JavaScript latest languaje features, Babel, Node.JS, BookshelfJS/KnexJS and Postgres, REST APIs, Azure Storage Services, React, Redux, SASS and Electron app development.
+In the second part, I developed the integrated shipping system (backend and apps) for [Dicom Transportation Group](https://www.dicom.com/), one of the biggest logistic companies in Canada.
+The development required my best skills with JavaScript latest language features, Babel, Node.js, BookshelfJS/KnexJS and Postgres, REST APIs, Azure Storage Services, React, Redux, SASS and Electron app development.
 
-Teaching durung 2016 included participating as the JavaScript specialist in the Full Stack JavaScript training couse at [Digital House](https://www.digitalhouse.com/), one of the top software development training providers in Argentina, backed by some of Argentina's top companies.
+Teaching during 2016 included participating as the JavaScript specialist in the Full Stack JavaScript training course at [Digital House](https://www.digitalhouse.com/), one of the top software development training providers in Argentina, backed by some of Argentina's top companies.
 Corporate training this year included JavaScript training classes to one of the core development teams at [Assist Card of Argentina](https://www.assistcard.com/ar).
 
-## Bloq (2017 to date)
+## Bloq & Hemi Labs (2017 to date)
 
 > My dream come true
 
 By the end of 2016 I got in touch with @jgarzik, former Linux kernel developer, former Bitcoin core developer and entrepreneur.
-After talking to him a couple of times I had the opportunity of joining the [Bloq](https://bloq.com) team and started applying my management, JavaScript and Node.JS skills on the world of the cryptotechnologies: Bitcoin, Ethereum and others.
+After talking to him a couple of times I had the opportunity of joining the [Bloq](https://bloq.com) team and started applying my management, JavaScript and Node.js skills in the world of the crypto-technologies: Bitcoin, Ethereum and others.
 
 This is literally my dream come true.
 I have been dreaming about having this chance since I first learned about Bitcoin back in 2012.
 
-In the last 3 years I developed Bitcoin-based solutions based on the Copay wallet and Bitpay backend services, developed the official Ethereum-based [Metronome](https://metronome.io) crypto-wallet and infrastructure (see https://github.com/autonomoussoftware) and lately lead the development of [Bloq.Cloud](https://bloq.cloud), an on-demand blockchain infrastructure platform.
-I'm also actively contributing to open source projects
+In the last few years I developed and led the backend/frontend development teams behind these products:
+
+- Bitcoin-based solutions based on the Copay wallet and Bitpay backend services
+- The official Ethereum-based [Metronome](https://metronome.io) crypto-wallet and infrastructure (see <https://github.com/autonomoussoftware>)
+- [Bloq.Cloud](https://bloq.cloud), an on-demand blockchain infrastructure platform
+- [Vesper](https://app.vesper.finance), a platform of DeFi products designed for ease-of-use, longevity, and scale
+- [Hemi](https://app.hemi.xyz), the unified DeFi layer for Bitcoin that turns idle BTC into compliant yield with full ownership and secure in-custody execution
+- [Vetro](https://app.vetro.org), the treasury layer for protocol-generated assets
+
+I'm also actively contributing to open source projects.
 
 This part of the history is being written right now.
 Stay tuned...!
@@ -175,10 +183,12 @@ Whenever I find myself in that situation, I evaluate the possibility of creating
 
 Package | Downloads
 --- | ---
-[tiny-promisify](https://www.npmjs.com/package/tiny-promisify) |	56,800
-[babel-preset-latest-minimal](https://www.npmjs.com/package/babel-preset-latest-minimal) |	3,853
-[es-feature-detect](https://www.npmjs.com/package/es-feature-detect)	| 3,817
-[arrayslicer](https://www.npmjs.com/package/arrayslicer)	| 1,238
+[fast-password-entropy](https://www.npmjs.com/package/fast-password-entropy) | 7,031,343
+[source-map-cli](https://www.npmjs.com/package/source-map-cli) | 118,156
+[arrayslicer](https://www.npmjs.com/package/arrayslicer) | 39,303
+[tiny-promisify](https://www.npmjs.com/package/tiny-promisify) | 34,576
+[erc-20-abi](https://www.npmjs.com/package/erc-20-abi) | 33,420
+[promise-mem](https://www.npmjs.com/package/promise-mem) | 31,522
 
 (table based on the [stats on my npm packages](https://npm-stat.com/charts.html?author=gabmontes) for the last 12 months)
 
@@ -199,13 +209,20 @@ Name | Stars
 #### Bitcoin en Pesos apps
 
 I think bitcoin will shape the future in many ways.
-We may not be able to see the full potential of the ideas behind it but am sure our sons will.
+We may not be able to see the full potential of the ideas behind it but am sure our children will.
 My two cents are simple apps that calculate the exchange rate for the Argentinean peso.
 While developing the apps, I learned new development frameworks:
 
-- [Android](https://play.google.com/store/apps/details?id=ar.com.utoctadel.btcars.android) - Native app mixed with JavaScript bitcoin libraries
-- [BlackBerry 10](https://appworld.blackberry.com/webstore/content/59936633) - WebWorks (JavaScript) app
-- [Windows Phone](http://www.windowsphone.com/es-ar/store/app/bitcoin-en-pesos/9a0fd8d6-e728-4077-825a-ff9fe92ac0c0) - Native WinJS app for Windows Phone 8.1
+- Android - Native app mixed with JavaScript bitcoin libraries
+- BlackBerry 10 - Native app
+- Windows Phone - Native WinJS app for Windows Phone 8.1
+
+### Minecraft server plugins
+
+- [NetherRoofCleaner](https://github.com/gabmontes/NetherRoofCleaner)
+- [FarFarAway](https://github.com/gabmontes/FarFarAway)
+
+And others coming soon...
 
 ## More information
 
@@ -217,16 +234,16 @@ While developing the apps, I learned new development frameworks:
 
 ### Professional events, conferences and seminars
 
-- [DevDayAr, Dec 3rd, 2016](http://devday-ar.com/) - Staff
-- [NodeConf Argentina, Nov 17th-19th, 2016](https://2016.nodeconf.com.ar/) - Staff
+- DevDayAr, Dec 3rd, 2016 - Staff
+- NodeConf Argentina, Nov 17th-19th, 2016 - Staff
 - [JS Conf Uruguay, Apr 15th-16th, 2016](https://jsconf.uy/) - Attendee
-- [JS Conf Uruguay, Apr 23rd-24th, 2015](http://2015.jsconf.uy/) - Attendee
-- [JS Conf Argentina, Nov 29th, 2014](https://www.jsconfar.com/) - Attendee
+- JS Conf Uruguay, Apr 23rd-24th, 2015 - Attendee
+- JS Conf Argentina, Nov 29th, 2014 - Attendee
 - JS Conf Argentina, May 19th-20th, 2012 - Attendee
 - PMI Tour Cono Sur, Nov 2nd, 2011 - Attendee
 - PMI Tour Cono Sur, Nov 10th, 2010 - Attendee
 - PMI Tour Cono Sur, Nov 9th, 2009 - Attendee
 
-## Contributing to this bio!
+## Contributing to this bio
 
 Something is wrong, outdated, missing? Please open a pull request!
